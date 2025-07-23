@@ -20,7 +20,7 @@ Wallet scores were bucketed into the following ranges:
 
 The figure below shows the number of wallets in each bucket.
 
-![Score Distribution](score_distribution_plot.png)
+![Score Distribution](score_distribution.png)
 
 
 ---
